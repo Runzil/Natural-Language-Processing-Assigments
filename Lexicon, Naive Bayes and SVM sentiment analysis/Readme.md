@@ -58,7 +58,7 @@ The dataset comprises 1000 positive and 1000 negative movie reviews, each repres
 ### Running the Notebook
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
+   git clone https://github.com/Runzil/sentiment-analysis.git
    ```
 2. Navigate to the project directory and open the notebook:
    ```bash
