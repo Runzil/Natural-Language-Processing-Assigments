@@ -59,7 +59,7 @@ The **Stanford Sentiment Treebank (SST)** dataset provides both sentence-level a
 - Libraries: `PyTorch`, `NumPy`, `NLTK`
 
 
-##Conclusion
+###Conclusion
 
 - **Word Order**: Essential for effective sentiment classification.
 - **Tree Structures**: Significantly enhance accuracy by capturing hierarchical relationships.
