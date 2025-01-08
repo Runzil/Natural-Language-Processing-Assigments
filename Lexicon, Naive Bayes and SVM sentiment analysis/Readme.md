@@ -55,18 +55,6 @@ The dataset comprises 1000 positive and 1000 negative movie reviews, each repres
 - Python 3.6+
 - Required Python libraries: `scikit-learn`, `nltk`, `numpy`, `pandas`
 
-### Running the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Runzil/sentiment-analysis.git
-   ```
-2. Navigate to the project directory and open the notebook:
-   ```bash
-   cd sentiment-analysis
-   jupyter notebook CodeReport.ipynb
-   ```
-3. Follow the instructions in the notebook to run the experiments.
-
 ---
 
 ## Results
